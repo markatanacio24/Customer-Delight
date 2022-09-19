@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Boebv2Wm0G" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Customer Delight</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Customer_Delight_ORG">
+    <organization identifier="Customer_Delight_ORG">
+      <title>Customer Delight</title>
+      <item identifier="Customer_Delight_SCO" isvisible="true" identifierref="__6Boebv2Wm0G_RES">
+        <title>Customer Delight</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Boebv2Wm0G_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/63tPjeb2kMb_P_102_0_1843_1099.jpg" />
+      <file href="mobile/5j8Ce0ljMMN.png" />
+      <file href="mobile/5YjypKYG22c_P_1262_418_486_597.png" />
+      <file href="mobile/6jhK1ukqxEb.png" />
+      <file href="mobile/5uBEbYzwUQO_P_29_0_994_683.jpg" />
+      <file href="mobile/5prgOzr2A5W_P_16_102_1805_1015.jpg" />
+      <file href="mobile/5welVYmOPMy_X_P_179_0_1868_1050.jpg" />
+      <file href="mobile/6GNZDgDvK9q_P_0_102_1973_1110.jpg" />
+      <file href="mobile/5xJb8e2c0sY_P_0_0_2048_1151.jpg" />
+      <file href="mobile/6rJyyqVr5dT_X_P_0_0_1032_1164.png" />
+      <file href="mobile/5jvj42tRheQ_P_0_0_861_1168.png" />
+      <file href="mobile/5uHCi7AaMCe_P_0_0_990_1242.png" />
+      <file href="mobile/6YfKIJ5kobg_P_0_0_581_1097.png" />
+      <file href="mobile/6aa4JZfRHjf_P_0_0_2048_1152.jpg" />
+      <file href="mobile/6QbMphqY0CA_P_0_304_2000_1125.png" />
+      <file href="mobile/5e9DRROuUSg.png" />
+      <file href="mobile/6Pr4rQuG2Ht_P_0_0_606_1163.png" />
+      <file href="mobile/6JZDRplwE15_P_0_0_1021_1209.png" />
+      <file href="mobile/60HGsHYChwx_X_P_0_0_689_1204.png" />
+      <file href="mobile/6OAJqZUpQAu_P_0_0_546_1243.png" />
+      <file href="mobile/6OADFCvLE0c_P_0_192_2010_1152.jpg" />
+      <file href="mobile/5m6DxZUPxRW_P_0_192_2048_1152.jpg" />
+      <file href="mobile/6nQbYi6LO0k_P_119_53_1570_891.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5r27dw1oYIG.png" />
+      <file href="mobile/Shape6b46uFgwRU8.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eseLuXWpOU.js" />
+      <file href="html5/data/js/5nEcxjW3J4g.js" />
+      <file href="html5/data/js/5oNwK38r5mu.js" />
+      <file href="html5/data/js/681SCVDX1WK.js" />
+      <file href="html5/data/js/6Adu6Wg5qeU.js" />
+      <file href="html5/data/js/6bf5BVSn7Dy.js" />
+      <file href="html5/data/js/6CPYBhlRdIa.js" />
+      <file href="html5/data/js/6kyK2nUQcJt.js" />
+      <file href="html5/data/js/6lFvr0mcJJ9.js" />
+      <file href="html5/data/js/6XlcNb7XyGo.js" />
+      <file href="html5/data/js/6YKVkQni95d.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
